@@ -1,2 +1,3 @@
 # pirate_demo
-my first github repo
+This is my first git repo
+author- jack spparow
